@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#done {
+  text-align: center;
+  padding: 200px;
+}
+
+h5 {
+  font-style: italic;
+}
+
+.back{
+  text-align: center;
+  cursor: pointer;
+}
+
+button{
+  border-radius: 20px;
+  font-size: 80%;
+  height: 20px;
+  cursor: pointer;
+
+}
